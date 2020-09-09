@@ -30,9 +30,10 @@ h2 {
     line-height: 3rem;
 }
 
-a:link { 
+a { 
     text-decoration:none;
-    color: white; 
+    color: white;
+    font-weight: 600;
 }
 
 .strong {
@@ -59,7 +60,7 @@ a:link {
     background-color: #dd5555;
     padding:0.5rem;
     border-radius: 5px;
-    margin:auto;
+    margin:auto; 
 }
 
 .profil img {
